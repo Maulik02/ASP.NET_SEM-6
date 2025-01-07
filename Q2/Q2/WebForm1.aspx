@@ -2,7 +2,6 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <style>
-        /* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -21,7 +20,6 @@ h2 {
     color: white;
 }
 
-/* Container Styling */
 .container {
     background: rgba(0, 0, 0, 0.6);
     padding: 30px 20px;
@@ -42,10 +40,9 @@ h2 {
     color: #ccc;
 }
 
-/* Form Input Fields */
 input[type="text"],
 input[type="password"] {
-    width: 90%;
+    width: 95%;
     padding: 10px;
     margin-bottom: 15px;
     border: none;
@@ -54,7 +51,6 @@ input[type="password"] {
     font-size: 16px;
 }
 
-/* Options Section */
 .options {
     display: flex;
     justify-content: space-between;
@@ -77,7 +73,6 @@ input[type="password"] {
     text-decoration: underline;
 }
 
-/* Login Button */
 button.login-button {
     width: 100%;
     padding: 10px;
@@ -94,7 +89,6 @@ button.login-button:hover {
     background-color: #333;
 }
 
-/* Register Section */
 .register {
     text-align: center;
     margin-top: 10px;
