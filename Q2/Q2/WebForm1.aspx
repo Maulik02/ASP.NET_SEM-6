@@ -14,9 +14,10 @@ body {
     color: white;
 }
 
+
 h2 {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 21px;
     color: white;
 }
 
