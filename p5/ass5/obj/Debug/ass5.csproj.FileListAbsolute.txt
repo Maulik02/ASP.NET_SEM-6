@@ -1,0 +1,84 @@
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\csc.exe
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\System.Collections.Immutable.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\System.Reflection.Metadata.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\vbc.exe
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\VBCSCompiler.exe
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\roslyn\VBCSCompiler.exe.config
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\ass5.dll.config
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\ass5.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\ass5.pdb
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\obj\Debug\ass5.csprojResolveAssemblyReference.cache
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\obj\Debug\ass5.dll
+F:\sem-6\Aansi\ASP\Assignment-1\ass5\ass5\obj\Debug\ass5.pdb
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\csc.exe
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\System.Collections.Immutable.dll
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\System.Reflection.Metadata.dll
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\vbc.exe
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\VBCSCompiler.exe
+F:\asssignment asp\task1\p5\ass5\bin\roslyn\VBCSCompiler.exe.config
+F:\asssignment asp\task1\p5\ass5\bin\ass5.dll.config
+F:\asssignment asp\task1\p5\ass5\bin\ass5.dll
+F:\asssignment asp\task1\p5\ass5\bin\ass5.pdb
+F:\asssignment asp\task1\p5\ass5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\asssignment asp\task1\p5\ass5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\asssignment asp\task1\p5\ass5\obj\Debug\ass5.csproj.AssemblyReference.cache
+F:\asssignment asp\task1\p5\ass5\obj\Debug\ass5.csproj.CoreCompileInputs.cache
+F:\asssignment asp\task1\p5\ass5\obj\Debug\ass5.csproj.CopyComplete
+F:\asssignment asp\task1\p5\ass5\obj\Debug\ass5.dll
+F:\asssignment asp\task1\p5\ass5\obj\Debug\ass5.pdb
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\csc.exe
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\System.Collections.Immutable.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\System.Reflection.Metadata.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\vbc.exe
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\VBCSCompiler.exe
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\roslyn\VBCSCompiler.exe.config
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\ass5.dll.config
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\ass5.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\ass5.pdb
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\obj\Debug\ass5.csproj.AssemblyReference.cache
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\obj\Debug\ass5.csproj.CoreCompileInputs.cache
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\obj\Debug\ass5.csproj.CopyComplete
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\obj\Debug\ass5.dll
+D:\D-SEM-6\ASP.NET\task1\p5\ass5\obj\Debug\ass5.pdb
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\csc.exe
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\vbc.exe
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\VBCSCompiler.exe
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\ass5.dll.config
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\ass5.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\ass5.pdb
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\obj\Debug\ass5.csprojResolveAssemblyReference.cache
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\obj\Debug\ass5.dll
+C:\Users\atmiya\Downloads\D-SEM-6\D-SEM-6\ASP.NET\Task-1\p5\ass5\obj\Debug\ass5.pdb
