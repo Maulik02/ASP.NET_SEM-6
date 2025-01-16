@@ -1,0 +1,411 @@
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\Prog3.dll.config
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\Prog3.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\Prog3.pdb
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\csc.exe
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\csc.exe.config
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\csc.rsp
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\csi.exe
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\csi.exe.config
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\csi.rsp
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.AppContext.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Collections.Immutable.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Console.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.IO.Compression.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.IO.FileSystem.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Net.Http.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Net.Sockets.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.ValueTuple.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Xml.XPath.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\vbc.exe
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\vbc.exe.config
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\vbc.rsp
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\VBCSCompiler.exe
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\roslyn\VBCSCompiler.exe.config
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\obj\Debug\Prog3.csproj.AssemblyReference.cache
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\obj\Debug\Prog3.csproj.CoreCompileInputs.cache
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\obj\Debug\Prog3.csproj.CopyComplete
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\obj\Debug\Prog3.dll
+D:\Sem - 6\ASP.NET\Tasks\Task - 1\Prog3\Prog3\obj\Debug\Prog3.pdb
+F:\Prog3\Prog3\bin\Prog3.dll.config
+F:\Prog3\Prog3\bin\Prog3.dll
+F:\Prog3\Prog3\bin\Prog3.pdb
+F:\Prog3\Prog3\bin\roslyn\csc.exe
+F:\Prog3\Prog3\bin\roslyn\csc.exe.config
+F:\Prog3\Prog3\bin\roslyn\csc.rsp
+F:\Prog3\Prog3\bin\roslyn\csi.exe
+F:\Prog3\Prog3\bin\roslyn\csi.exe.config
+F:\Prog3\Prog3\bin\roslyn\csi.rsp
+F:\Prog3\Prog3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Prog3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Prog3\Prog3\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Prog3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Prog3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Prog3\Prog3\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Prog3\Prog3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Prog3\Prog3\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Prog3\Prog3\bin\roslyn\System.AppContext.dll
+F:\Prog3\Prog3\bin\roslyn\System.Collections.Immutable.dll
+F:\Prog3\Prog3\bin\roslyn\System.Console.dll
+F:\Prog3\Prog3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Prog3\Prog3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Prog3\Prog3\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Prog3\Prog3\bin\roslyn\System.Globalization.Calendars.dll
+F:\Prog3\Prog3\bin\roslyn\System.IO.Compression.dll
+F:\Prog3\Prog3\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Prog3\Prog3\bin\roslyn\System.IO.FileSystem.dll
+F:\Prog3\Prog3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Prog3\Prog3\bin\roslyn\System.Net.Http.dll
+F:\Prog3\Prog3\bin\roslyn\System.Net.Sockets.dll
+F:\Prog3\Prog3\bin\roslyn\System.Reflection.Metadata.dll
+F:\Prog3\Prog3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Prog3\Prog3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Prog3\Prog3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Prog3\Prog3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Prog3\Prog3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Prog3\Prog3\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Prog3\Prog3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Prog3\Prog3\bin\roslyn\System.ValueTuple.dll
+F:\Prog3\Prog3\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Prog3\Prog3\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Prog3\Prog3\bin\roslyn\System.Xml.XPath.dll
+F:\Prog3\Prog3\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Prog3\Prog3\bin\roslyn\vbc.exe
+F:\Prog3\Prog3\bin\roslyn\vbc.exe.config
+F:\Prog3\Prog3\bin\roslyn\vbc.rsp
+F:\Prog3\Prog3\bin\roslyn\VBCSCompiler.exe
+F:\Prog3\Prog3\bin\roslyn\VBCSCompiler.exe.config
+F:\Prog3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Prog3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Prog3\Prog3\obj\Debug\Prog3.csproj.AssemblyReference.cache
+F:\Prog3\Prog3\obj\Debug\Prog3.csproj.CoreCompileInputs.cache
+F:\Prog3\Prog3\obj\Debug\Prog3.csproj.CopyComplete
+F:\Prog3\Prog3\obj\Debug\Prog3.dll
+F:\Prog3\Prog3\obj\Debug\Prog3.pdb
+D:\ASP.NET\t1_prg3\Prog3\bin\Prog3.dll.config
+D:\ASP.NET\t1_prg3\Prog3\bin\Prog3.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\Prog3.pdb
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\csc.exe
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\csc.exe.config
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\csc.rsp
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\csi.exe
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\csi.exe.config
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\csi.rsp
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.AppContext.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Console.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.IO.Compression.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Net.Http.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Net.Sockets.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.ValueTuple.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Xml.XPath.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\vbc.exe
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\vbc.exe.config
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\vbc.rsp
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET\t1_prg3\Prog3\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET\t1_prg3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET\t1_prg3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET\t1_prg3\Prog3\obj\Debug\Prog3.csproj.AssemblyReference.cache
+D:\ASP.NET\t1_prg3\Prog3\obj\Debug\Prog3.csproj.CoreCompileInputs.cache
+D:\ASP.NET\t1_prg3\Prog3\obj\Debug\Prog3.csproj.CopyComplete
+D:\ASP.NET\t1_prg3\Prog3\obj\Debug\Prog3.dll
+D:\ASP.NET\t1_prg3\Prog3\obj\Debug\Prog3.pdb
+D:\hiral asp\ass\t1_prg3\Prog3\bin\Prog3.dll.config
+D:\hiral asp\ass\t1_prg3\Prog3\bin\Prog3.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\Prog3.pdb
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\csc.exe
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\csc.exe.config
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\csc.rsp
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\csi.exe
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\csi.exe.config
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\csi.rsp
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.AppContext.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Collections.Immutable.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Console.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Globalization.Calendars.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.IO.Compression.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.IO.FileSystem.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Net.Http.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Net.Sockets.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Reflection.Metadata.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.ValueTuple.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Xml.XPath.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\vbc.exe
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\vbc.exe.config
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\vbc.rsp
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\VBCSCompiler.exe
+D:\hiral asp\ass\t1_prg3\Prog3\bin\roslyn\VBCSCompiler.exe.config
+D:\hiral asp\ass\t1_prg3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hiral asp\ass\t1_prg3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hiral asp\ass\t1_prg3\Prog3\obj\Debug\Prog3.csprojResolveAssemblyReference.cache
+D:\hiral asp\ass\t1_prg3\Prog3\obj\Debug\Prog3.dll
+D:\hiral asp\ass\t1_prg3\Prog3\obj\Debug\Prog3.pdb
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\Prog3.dll.config
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\Prog3.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\Prog3.pdb
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\assignment\program3\Prog3\obj\Debug\Prog3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\assignment\program3\Prog3\obj\Debug\Prog3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\assignment\program3\Prog3\obj\Debug\Prog3.csproj.CopyComplete
+C:\Users\admin\Desktop\assignment\program3\Prog3\obj\Debug\Prog3.dll
+C:\Users\admin\Desktop\assignment\program3\Prog3\obj\Debug\Prog3.pdb
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\Prog3.dll.config
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\Prog3.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\Prog3.pdb
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\csc.exe
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\csc.exe.config
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\csc.rsp
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\csi.exe
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\csi.exe.config
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\csi.rsp
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.AppContext.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Console.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Globalization.Calendars.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.IO.Compression.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Net.Http.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Net.Sockets.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.ValueTuple.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Xml.XPath.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\vbc.exe
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\vbc.exe.config
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\vbc.rsp
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\VBCSCompiler.exe
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\obj\Debug\Prog3.csproj.AssemblyReference.cache
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\obj\Debug\Prog3.csproj.CoreCompileInputs.cache
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\obj\Debug\Prog3.csproj.Up2Date
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\obj\Debug\Prog3.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\program3\Prog3\obj\Debug\Prog3.pdb
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\Prog3.dll.config
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\Prog3.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\Prog3.pdb
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\csc.exe
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\csc.exe.config
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\csc.rsp
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\csi.exe
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\csi.exe.config
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\csi.rsp
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.AppContext.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Console.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Net.Http.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\vbc.exe
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\vbc.exe.config
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\vbc.rsp
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\obj\Debug\Prog3.csproj.AssemblyReference.cache
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\obj\Debug\Prog3.csproj.CoreCompileInputs.cache
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\obj\Debug\Prog3.csproj.Up2Date
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\obj\Debug\Prog3.dll
+E:\ASP.NET SEM-6\ASP.NET_SEM-6\p3\Prog3\obj\Debug\Prog3.pdb
