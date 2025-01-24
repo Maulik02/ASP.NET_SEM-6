@@ -57,3 +57,7 @@ E:\ASP.NET SEM-6\ASP.NET_SEM-6\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
 E:\ASP.NET SEM-6\ASP.NET_SEM-6\Q2\Q2\obj\Debug\Q2.csproj.Up2Date
 E:\ASP.NET SEM-6\ASP.NET_SEM-6\Q2\Q2\obj\Debug\Q2.dll
 E:\ASP.NET SEM-6\ASP.NET_SEM-6\Q2\Q2\obj\Debug\Q2.pdb
+E:\MaulikE2\ASP.NET_SEM-6\Q2\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+E:\MaulikE2\ASP.NET_SEM-6\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+E:\MaulikE2\ASP.NET_SEM-6\Q2\Q2\obj\Debug\Q2.dll
+E:\MaulikE2\ASP.NET_SEM-6\Q2\Q2\obj\Debug\Q2.pdb

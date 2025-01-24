@@ -21,6 +21,7 @@
                 <asp:TableCell runat="server" BorderStyle="Solid" BorderWidth="1px">100</asp:TableCell>
                 <asp:TableCell runat="server" BorderStyle="Solid" BorderWidth="1px">Risab</asp:TableCell>
                 <asp:TableCell runat="server" BorderStyle="Solid" BorderWidth="1px">7000</asp:TableCell>
+
             </asp:TableRow>
             <asp:TableRow runat="server">
                 <asp:TableCell runat="server" BorderStyle="Solid" BorderWidth="1px">101</asp:TableCell>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MaulikE2\\ASP.NET_SEM-6\\p5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68247E09-4500-483E-9AEF-78C8ECC37169}|ass5\\ass5.csproj|e:\\maulike2\\asp.net_sem-6\\p5\\ass5\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{68247E09-4500-483E-9AEF-78C8ECC37169}|ass5\\ass5.csproj|solutionrelative:ass5\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "E:\\MaulikE2\\ASP.NET_SEM-6\\p5\\ass5\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "ass5\\WebForm1.aspx",
+              "ToolTip": "E:\\MaulikE2\\ASP.NET_SEM-6\\p5\\ass5\\WebForm1.aspx",
+              "RelativeToolTip": "ass5\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-16T16:51:50.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
