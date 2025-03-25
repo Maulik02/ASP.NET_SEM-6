@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <BookId>1</BookId>
+    <Title>The Great Gatsby</Title>
+    <Author>F. Scott Fitzgerald</Author>
+    <Price>450</Price>
+  </Book>
+  <Book>
+    <BookId>2</BookId>
+    <Title>To Kill a Mockingbird</Title>
+    <Author>Harper Lee</Author>
+    <Price>200</Price>
+  </Book>
+  <Book>
+    <BookId>3</BookId>
+    <Title>1984</Title>
+    <Author>George Orwell</Author>
+    <Price>180</Price>
+  </Book>
+</Books>
